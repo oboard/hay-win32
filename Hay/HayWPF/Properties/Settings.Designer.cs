@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Hay.Properties
+namespace HayWPF.Properties
 {
 
 
